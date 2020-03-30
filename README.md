@@ -1,2 +1,3 @@
 # remote-repo1
-gitdemo
+
+gitdemo 깃헙 수업 데모
